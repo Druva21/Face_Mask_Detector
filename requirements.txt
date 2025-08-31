@@ -1,0 +1,13 @@
+tensorflow>=2.5.0
+keras==2.12.0  # Updated to a compatible version with TensorFlow 2.x
+imutils==0.5.4
+numpy>=1.24
+opencv-python>=4.5.3  # Use a newer version compatible with Python 3.11
+matplotlib>=3.5.0  # Updated to a compatible version
+argparse==1.4.0
+scipy>=1.7.0  # Updated to a compatible version
+scikit-learn>=0.24.2  # Updated to a compatible version
+pillow>=8.3.2
+streamlit>=1.12.0  # Updated to a compatible version
+onnx>=1.12.0  # Updated to a compatible version
+tf2onnx>=1.13.0  # Updated to a compatible version
