@@ -23,8 +23,7 @@ This project demonstrates advanced computer vision skills by implementing a comp
 ### Training Performance
 ![Training Plot](training_plot.png)
 
-### Model Architecture
-![Model Plot](plot.png)
+
 
 ## 📊 Performance Metrics
 
