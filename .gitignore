@@ -24,7 +24,7 @@ wheels/
 venv/
 env/
 test/
-dataset/
+ENV/
 
 # IDE
 .vscode/
@@ -39,13 +39,34 @@ Thumbs.db
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Dataset (keep locally, don't push to git)
+dataset/
+dataset/with_mask/
+dataset/without_mask/
+
 # Model files (optional - uncomment if you don't want to track large model files)
 # *.model
 # *.h5
 
 # Training outputs
 plot.png
+*.png
+*.jpg
+*.jpeg
 
 # Uploaded images
 images/uploaded.jpg
-images/webcam.jpg 
+images/webcam.jpg
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Cache files
+.cache/
+*.cache
+
+# Local configuration
+.env
+.env.local
