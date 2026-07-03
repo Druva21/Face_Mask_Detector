@@ -218,10 +218,10 @@ streamlit run app.py --server.port 8501
 
 ## 📚 References
 
-- MobileNetV2: Inverted Residuals and Linear Bottlenecks
-- OpenCV DNN Face Detection
-- Streamlit Documentation
-- Computer Vision Best Practices
+- MobileNetV2: Inverted Residuals and Linear Bottlenecks.
+- OpenCV DNN Face Detection.
+- Streamlit Documentation.
+- Computer Vision Best Practices.
 
 ## 📄 License
 
